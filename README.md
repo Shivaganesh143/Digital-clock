@@ -20,5 +20,5 @@ languages used to run this project.
 - css
 - javascript
   
-[website link](https://shivaganeshodem.github.io/Digital-clock/)
+[Website link](https://shivaganeshodem.github.io/Digital-clock/)
 
